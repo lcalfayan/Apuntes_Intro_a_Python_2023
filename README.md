@@ -17,4 +17,5 @@ TEÓRICAS:
 [Clase11-Clases_y_Objectos]  
 
 PRÁCTICAS:
+[Ejercicios](https://github.com/lcalfayan/Apuntes_Intro_a_Python_2023/tree/main/ejercicios_python)
 
