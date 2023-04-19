@@ -2,7 +2,7 @@
 Apuntes tomados de la pagina de la materia Programacion 1 de la UNSAM con anotaciones propias y los ejercicios resueltos.  
 
 [Resumen de comandos] (url de la carpeta en git)  
-[Clase1-Intro_a_Phyton](url de la carpeta en git)  
+[Clase1-Intro_a_Phyton](https://github.com/lcalfayan/Apuntes_Intro_a_Python_2023/blob/main/01_Intro_a_Python.md)  
 [Calse2-Estructucuras_y_Funciones]  
 [Calse3-Contenedores_y_errores]  
 [Clase4-Datos]  
