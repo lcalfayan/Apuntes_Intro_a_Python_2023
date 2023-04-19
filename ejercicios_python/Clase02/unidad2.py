@@ -57,3 +57,46 @@ with gzip.open('../Data/camion.csv.gz', 'rt') as f:
     for line in f:
         print(line, end = '')
 
+#%%
+# 2.4 FUNCIONES
+
+def sumcount(n):
+    '''
+    Devuelve la suma de los primeros n enteros
+    '''
+    total = 0
+    while n > 0:
+        total += n
+        n -= 1
+    return total
+
+sumcount(3)
+sumcount(20)
+1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20
+
+# Atrapar y administrar excepciones
+
+numero_valido=False
+while not numero_valido:
+    try:
+        a = input('Ingresá un número entero: ')
+        n = int(a)
+        numero_valido = True
+    except ValueError:
+        print('No es válido. Intentá de nuevo.')
+print(f'Ingresaste {n}.')
+
+# Ejercicio 2.5: Definir una función
+
+def saludar(nombre):
+    'Saluda a alguien'
+    print('Hola', nombre)
+
+saludar('Juan')
+help(saludar)
+
+# Ejercicio 2.6: Transformar un script en una función
+##en el archivo costo_camion.py
+
+# Ejercicio 2.7: Buscar precios
+## en el archivo buscar_precios.py
