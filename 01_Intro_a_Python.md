@@ -2,7 +2,7 @@
 El objetivo de esta primera clase es recordar los conceptos de condicional y de ciclo e introducir algunos conceptos básicos de Python. Comenzando desde cero vas a aprender a editar, ejecutar y debuguear pequeños programas. También presentamos algunos tipos de datos de Python: número enteros, números de punto flotante, cadenas y listas.
 
 
-* 1.1 Python
+* [1.1 Python]
 * 1.2 Variables, condicionales y ciclos
 * 1.3 Un primer programa
 * 1.4 Números
@@ -11,7 +11,7 @@ El objetivo de esta primera clase es recordar los conceptos de condicional y de 
 * 1.7 Listas
 * 1.8 Cierre de la clase
 
-# 1.1 Python
+# [1.1 Python]  
 
 ### ¿Qué es Python?
 
